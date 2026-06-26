@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+h1 {
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+h2 {
+    color:red;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+h3 {
+    text-align: center;
+}
+.section {
+    border: 2px solid white;
+    padding: 20px;
+    margin: 30px auto;
+    max-width: 900px;
+}
+img {
+    border: 2px solid white;
+    padding: 4px;
+}
